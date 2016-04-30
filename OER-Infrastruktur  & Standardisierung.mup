@@ -1,0 +1,121 @@
+{
+  "title": "OER-Infrastruktur \n&\nStandardisierung",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "OER-Erstellung und Speicherung",
+      "id": 4,
+      "ideas": {
+        "1": {
+          "title": "markdown & git",
+          "id": 5
+        },
+        "2": {
+          "title": "odt, doc etc.",
+          "id": 6
+        },
+        "3": {
+          "title": "WIki",
+          "id": 7
+        },
+        "4": {
+          "title": "PDF",
+          "id": 8
+        },
+        "5": {
+          "title": "HTML",
+          "id": 9
+        },
+        "6": {
+          "title": "multimedia",
+          "id": 10
+        }
+      }
+    },
+    "2": {
+      "title": "Schnittstellen",
+      "id": 27,
+      "ideas": {
+        "1": {
+          "title": "SItemaps & ResourceSync",
+          "id": 28
+        },
+        "2": {
+          "title": "OAI-PMH",
+          "id": 29
+        }
+      }
+    },
+    "-1": {
+      "title": "OER-Metadaten",
+      "id": 13,
+      "ideas": {
+        "3": {
+          "title": "Schemata",
+          "id": 16,
+          "ideas": {
+            "1": {
+              "title": "LRMI",
+              "id": 14,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "LOM",
+              "id": 15,
+              "attr": {
+                "style": {}
+              }
+            }
+          }
+        },
+        "4": {
+          "title": "Formate",
+          "id": 17,
+          "ideas": {
+            "1": {
+              "title": "XML",
+              "id": 18
+            },
+            "2": {
+              "title": "Microdata, JSON-LD, RDFa",
+              "id": 19
+            }
+          }
+        },
+        "5": {
+          "title": "Normdaten",
+          "id": 26
+        },
+        "6": {
+          "title": "Akteure",
+          "id": 20,
+          "ideas": {
+            "1": {
+              "title": "KIM-Gruppe",
+              "id": 21
+            },
+            "2": {
+              "title": "AG MuD",
+              "id": 22
+            },
+            "3": {
+              "title": "DIPF",
+              "id": 23
+            },
+            "4": {
+              "title": "Landesbildungsserver",
+              "id": 24
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        }
+      }
+    }
+  },
+  "links": []
+}
